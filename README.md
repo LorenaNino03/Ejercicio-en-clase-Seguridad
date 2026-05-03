@@ -33,6 +33,10 @@ Se instala Phyton, luego se abre powerShell, se ejecutaron los comandos que se m
 # 3 se corre el código con python detector.py
 
 
+https://github.com/user-attachments/assets/0d93e452-89be-4359-b957-20e3ab2beaa5
+
+
+
 
 
 
