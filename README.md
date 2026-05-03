@@ -25,7 +25,10 @@ Se ejecuta con python detector.py
 
 
 # El procedimiento fue el siguiente:
-Se instala Phyton, luego se abre powerShell, se ejecutaron los comandos
+Se instala Phyton, luego se abre powerShell, se ejecutaron los comandos que se mostraron en el incio, se crea la carpeta en python, luego que busca, y se corre el código, ahora para poder ver las imagenes solicitadas, se descargan cada una de ellas, y se vuelve a crear la carpeta en python, se corre el código.
+# 1 se crea
+<img width="671" height="281" alt="image" src="https://github.com/user-attachments/assets/2477c3ed-e66d-4ef1-927e-9c444f014d82" />
+
 
 
 
