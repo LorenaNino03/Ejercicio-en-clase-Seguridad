@@ -20,7 +20,10 @@ Se empieza a ejecutar todos los comando por powerShell.
 # 4. Ejecutar el programa
 Se ejecuta con python detector.py
 <img width="1202" height="928" alt="image" src="https://github.com/user-attachments/assets/6e82ad94-f5f1-4bbf-bddb-c13cf92c32c4" />
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/020275d0-e1bc-4517-8a45-8392a808d728" />
+<img width="879" height="724" alt="Captura de pantalla 2026-05-03 122609" src="https://github.com/user-attachments/assets/c43f9d11-bbed-4d40-ad74-b0e29ec5ccb3" />
+<img width="738" height="646" alt="Captura de pantalla 2026-05-03 122925" src="https://github.com/user-attachments/assets/46ced7bc-d826-42c6-af56-6354487e39f2" />
+
+
 # El procedimiento fue el siguiente:
 Se instala Phyton, luego se abre powerShell, se ejecutaron los comandos
 
